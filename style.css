@@ -1,0 +1,17 @@
+#enter-value{
+    width:270px;
+}
+button{
+    width:30px;
+background-color:#352e3188 ;
+border-radius:8px;
+color: aliceblue;
+
+}
+.calculator{
+    width: 370px;
+margin-left:454px;
+margin-top:120px;
+padding: 250px;
+padding-left: 980px;
+}
